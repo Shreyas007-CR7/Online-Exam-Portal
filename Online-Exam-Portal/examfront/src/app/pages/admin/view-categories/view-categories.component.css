@@ -1,0 +1,22 @@
+.category-item {
+    display: flex;
+    align-items: center;
+    padding: 8px;
+  }
+  
+  .category-icon {
+    margin-right: 8px;
+  }
+  
+  .category-details {
+    flex: 1;
+  }
+  
+  .category-title {
+    font-weight: bold;
+  }
+  
+  .category-description {
+    color: #666;
+  }
+  

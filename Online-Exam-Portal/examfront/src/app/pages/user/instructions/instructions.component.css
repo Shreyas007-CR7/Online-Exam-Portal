@@ -1,0 +1,10 @@
+.center-buttons {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px; /* Adjust the margin as needed */
+  }
+  .center-buttons button {
+    margin-right: 10px; /* Adjust the right margin for the desired gap */
+  }  
+  
